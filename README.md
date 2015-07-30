@@ -1,6 +1,6 @@
 # kratke
 
-> Short with numbers
+> Short with hash number
 
 
 ## Install
