@@ -19,7 +19,7 @@ var name = 'http://www.thelongestdomainnameintheworldandthensomeandthensomemorea
 
 var code = kratke(name);
 
-console.log(code);
+console.log(code); //3508356967
 ```
 
 ## API
