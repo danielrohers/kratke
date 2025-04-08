@@ -1,6 +1,6 @@
 {
   "name": "kratke",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Short with numbers",
   "main": "index.js",
   "author": "Daniel Rohers Moura <rohersmoura@gmail.com> (https://github.com/danielrohers)",
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/danielrohers/kratke.git"
+    "url": "git+https://github.com/danielrohers/kratke.git"
   },
   "bugs": {
     "url": "https://github.com/danielrohers/kratke/issues"
